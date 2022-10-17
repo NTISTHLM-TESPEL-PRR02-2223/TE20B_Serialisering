@@ -1,0 +1,1 @@
+{"Color":"Rainbow","Speed":8,"Scale":200}
